@@ -1,3 +1,3 @@
 # chocochip
-Python Basics for Data Science
+Python projects completed for the 
 IBM Data Analyst Certificate - Coursera
